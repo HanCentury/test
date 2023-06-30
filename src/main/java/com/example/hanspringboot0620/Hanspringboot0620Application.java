@@ -9,6 +9,7 @@ public class Hanspringboot0620Application {
     public static void main(String[] args) {
         SpringApplication.run(Hanspringboot0620Application.class, args);
         System.out.println("test");
+        System.out.println("test2");
     }
 
 }
